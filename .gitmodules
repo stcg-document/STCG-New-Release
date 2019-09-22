@@ -1,3 +1,6 @@
 [submodule "STCG Tools/MagicSetEditor2_STCG"]
 	path = STCG Tools/MagicSetEditor2_STCG
 	url = https://github.com/mc-Genius/MagicSetEditor2_STCG.git
+[submodule "TRPG Documents/BGM/STCG-S-Music"]
+	path = TRPG Documents/BGM/STCG-S-Music
+	url = https://github.com/stcg-document/STCG-S-Music
